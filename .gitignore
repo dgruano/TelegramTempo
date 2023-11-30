@@ -1,0 +1,6 @@
+creds.json
+.DS_Store
+/__pycache__
+/zip_tlc
+.python-version
+Exemples.zip
